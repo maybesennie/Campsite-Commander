@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Camping Palette -->
+    <color name="forest_green">#1B5E20</color>
+    <color name="moss_green">#388E3C</color>
+    <color name="earth_brown">#5D4037</color>
+    <color name="wood_brown">#795548</color>
+    <color name="clay_brown">#8D6E63</color>
+    <color name="khaki">#D7CCC8</color>
+    <color name="leaf_green">#81C784</color>
+    <color name="dark_night">#0B1A0E</color>
+</resources>

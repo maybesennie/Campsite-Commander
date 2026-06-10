@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Campsite Commander</string>
+    <string name="title_splash">Campsite Commander</string>
+    <string name="add_gear">Stow Gear</string>
+    <string name="remove_last">Discard Entry</string>
+    <string name="total_items">Total Items Packed: %1$d</string>
+    <string name="view_list">Open Rucksack</string>
+    <string name="item_label">Gear</string>
+    <string name="category_label">Category</string>
+    <string name="quantity_label">Qty</string>
+    <string name="notes_label">Notes</string>
+    <string name="btn_back">Back to Camp</string>
+    <string name="packing_list_title">Checklist</string>
+
+    <!-- Input Hints -->
+    <string name="hint_item_name">What are we packing?</string>
+    <string name="hint_category">Type (Shelter, Cooking…)</string>
+    <string name="hint_quantity">Quantity</string>
+    <string name="hint_notes">Specific Notes</string>
+
+    <!-- Feedback with Personality -->
+    <string name="error_invalid_input">The woods are unforgiving! Please fill all fields.</string>
+    <string name="error_no_items">Rucksack is empty, Commander!</string>
+    <string name="msg_added">Stowed away safely!</string>
+    <string name="msg_removed">Unpacked from the list.</string>
+
+    <!-- Easter Eggs & Fun -->
+    <string name="easter_egg_marshmallow">Yum! Don\'t forget the sticks! 🍢</string>
+    <string name="easter_egg_bear">BEAR?! Don\'t worry, it\'s just a squirrel. 🐿️</string>
+    <string name="easter_egg_coffee">The lifeblood of every camper! ☕</string>
+    <string name="easter_egg_sasquatch">👣 Footprints detected! Get the camera ready!</string>
+    <string name="easter_egg_secret_message">The forest whispers… 🌲✨</string>
+    <string name="badge_unlocked">🏅 Expert Packer Badge Unlocked!</string>
+
+    <!-- Fun Facts & Tips -->
+    <string name="tip_title">Trail Pro-Tip:</string>
+    <string name="tip_1">Cotton is rotten! Wear wool to stay dry.</string>
+    <string name="tip_2">Store food high up to avoid midnight visitors.</string>
+    <string name="tip_3">Leave no trace. Pack out what you pack in!</string>
+    <string name="tip_4">A tarp under your tent prevents moisture seepage.</string>
+    <string name="tip_5">Keep your sleeping bag dry at all costs!</string>
+
+    <!-- Sample Data -->
+    <string name="item_tent">Canvas Tent</string>
+    <string name="item_stove">Gas Burner</string>
+    <string name="item_aid_kit">Med Kit</string>
+    <string name="cat_shelter">Shelter</string>
+    <string name="cat_cooking">Cooking</string>
+    <string name="cat_first_aid">First Aid</string>
+    <string name="note_tent">Check for stakes before leaving!</string>
+    <string name="note_stove">Check fuel levels.</string>
+    <string name="note_aid_kit">Fully stocked.</string>
+</resources>
