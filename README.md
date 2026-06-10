@@ -5,14 +5,11 @@ The application allows users to catalog essential gear, assign categories, track
 Technical Architecture
 UI Lifecycle & View Management
 The application implements a single-activity architecture that manages three distinct logical layers. Instead of traditional Fragment navigation, it utilizes programmatic setContentView transitions to maintain a lightweight memory footprint:
-1.
-Splash Sequence: A timed entry point (3000ms) utilizing Handler and Looper.getMainLooper() to initialize the application environment.
+1. Splash Sequence: A timed entry point (3000ms) utilizing Handler and Looper.getMainLooper() to initialize the application environment.
 
-2.
-Command Dashboard: The primary data-entry interface featuring input validation, dynamic summation logic, and keyboard management.
+2. Command Dashboard: The primary data-entry interface featuring input validation, dynamic summation logic, and keyboard management.
 
-3.
-Inventory Report (Detailed View): A data-parsing layer that aggregates stored information into a formatted, human-readable report.
+3. Inventory Report (Detailed View): A data-parsing layer that aggregates stored information into a formatted, human-readable report.
 Data Management & Parallel Arrays
 
 In accordance with specific architectural requirements, the system maintains data integrity using Parallel ArrayLists. This approach ensures 1:1 mapping across multiple attributes without the immediate overhead of a complex object-relational mapper (ORM):
