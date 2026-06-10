@@ -55,7 +55,7 @@ Future Development Roadmap
 • Advanced Filtering: Adding logic to sort and filter items based on the "Category" or "Quantity" attributes.
 
 
-## Author
-## Snakhokuhle Dlamini
-## Mobile Application Development - Final Technical Assessment
-## June 2026
+ Author
+ Snakhokuhle Dlamini
+ Mobile Application Development - Final Technical Assessment
+ June 2026
